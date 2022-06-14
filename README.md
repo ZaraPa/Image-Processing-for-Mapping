@@ -12,12 +12,11 @@ There were two main choices for the project:
 <br />
 <p align="justify">
 The main reason for the project was curiosity. Mainly to see the differences between regular image processing methods
-(i.e. threshold with histogram-based methods) and Instance segmentation with Mask R-CNN. Also, I wanted to investigate whether the new
-approach can bypass or even overtake the downsides of regular image processing methods.
+(i.e. threshold with histogram-based methods) and Instance segmentation with Mask R-CNN. Also, I wanted to investigate whether the new approach can bypass or even overtake the downsides of regular image processing methods.
 </p>
 
 <br />
 
 **How to run the code:**  (notice that your GPU is working)
-1. Upload 𝐵𝑖𝑟𝑑𝑠𝑃𝑟𝑜𝑗𝑒𝑐𝑡.𝑖𝑝𝑦𝑛𝑏 to your google drive to My Drive 
-2. Upload 𝐵𝑖𝑟𝑑𝑠𝐷𝑎𝑡𝑎 to your google drive to My Drive 
+1. Upload 𝐵𝑖𝑟𝑑𝑠𝑃𝑟𝑜𝑗𝑒𝑐𝑡.𝑖𝑝𝑦𝑛𝑏 to your google drive to My Drive.
+2. Upload 𝐵𝑖𝑟𝑑𝑠𝐷𝑎𝑡𝑎 to your google drive to My Drive.
