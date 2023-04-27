@@ -2,18 +2,16 @@
 ###### Image processing for mapping purposes (014855) - Final Project
 
 <p align="justify">
-The project presents an approach from the NN’s field, that was discovered in the year 2018 called “An instance segmentation with Mask R-CNN”. The assignment was to successfully identify chosen objects in a given picture. More precisely we wanted to detect birds given a bunch of individual images s.t. every image was composed of parrots and different complicated backgrounds (bird houses, the cage itself, branches, and ropes).
+This project explores a cutting-edge approach in the field of neural networks known as "Instance segmentation with Mask R-CNN," which was first discovered in 2018. The objective was to successfully identify birds in a given picture, specifically parrots in complex backgrounds such as birdhouses, cages, branches, and ropes.
 </p>
 
-There were two main choices for the project:
-- <p align="justify"> Since the amount of data was relatively small, came the idea to use deep learning with the help of not only transfer learning but also a data augmentation. In more detail, transfer learning enabled to take the pre-trained weights of an already trained model and use these already learned features to predict new classes.</p>
-- Since we wanted to detect all the birds in each image from the data set - the answer was using Instance segmentation with Mask R-CNN.
+To tackle this challenge, we had two main options:
+- <p align="justify"> Firstly, since the dataset was relatively small, we decided to use deep learning with transfer learning and data augmentation. Transfer learning allowed us to leverage pre-trained weights of an already trained model and apply those features to predict new classes.</p>
+- Secondly, to detect all the birds in each image, we opted for Instance segmentation with Mask R-CNN.
 
 <br />
 <p align="justify">
-The main reason for the project was curiosity. Mainly to see the differences between regular image processing methods
-(i.e. threshold with histogram-based methods) and Instance segmentation with Mask R-CNN. Also, I wanted to investigate whether the new approach can bypass or even overtake the downsides of regular image processing methods.
-</p>
+Our main motivation for the project was curiosity, as we wanted to compare the performance of regular image processing methods (such as thresholding with histogram-based methods) with Instance segmentation with Mask R-CNN. We also aimed to investigate if this new approach could overcome the limitations of traditional image processing methods or even outperform them.</p>
 
 <br />
 
