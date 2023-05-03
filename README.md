@@ -1,4 +1,4 @@
-#Object Detection with transfer-learning & data augmentation 
+# Object Detection with transfer-learning & data augmentation 
 ###### Image processing for mapping purposes (014855) - Final Project
 
 <p align="justify">
