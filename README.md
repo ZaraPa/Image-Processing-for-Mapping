@@ -21,6 +21,7 @@ The work was done as part of the *Image Processing for Mapping Purposes (0148555
 - **Evaluation** with Intersection-over-Union (IoU) and visual results
 - **Visualization utilities** for masks, bounding boxes, and overlays
 
+---
 ### How to run the code  (notice that your GPU is working)
 Upload to your **Google drive**:
 1. 𝐵𝑖𝑟𝑑𝑠𝑃𝑟𝑜𝑗𝑒𝑐𝑡.𝑖𝑝𝑦𝑛𝑏
