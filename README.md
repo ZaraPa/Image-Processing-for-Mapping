@@ -1,9 +1,8 @@
 # 🦜 Animal Figure Detection in Complex Backgrounds
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zara-papyan/Animal-Figure-Detection/blob/main/BirdsProject.ipynb)
+![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)
 ![Python](https://img.shields.io/badge/Python-3.9-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-Instance%20Segmentation-red)
 ![Colab](https://img.shields.io/badge/Run%20on-Google%20Colab-yellow)
-
 ---
 
 ### 🎯 Overview
@@ -21,3 +20,8 @@ The work was done as part of the *Image Processing for Mapping Purposes (0148555
 - **Data augmentation** (random flips, scaling)
 - **Evaluation** with Intersection-over-Union (IoU) and visual results
 - **Visualization utilities** for masks, bounding boxes, and overlays
+
+### How to run the code  (notice that your GPU is working)
+Upload to your **Google drive**:
+1. 𝐵𝑖𝑟𝑑𝑠𝑃𝑟𝑜𝑗𝑒𝑐𝑡.𝑖𝑝𝑦𝑛𝑏
+2. 𝐵𝑖𝑟𝑑𝑠𝐷𝑎𝑡𝑎
