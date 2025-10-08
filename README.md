@@ -1,5 +1,5 @@
 # 🦜 Animal Figure Detection in Complex Backgrounds
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<your-username>/<repo-name>/blob/main/BirdsProject.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zara-papyan/Animal-Figure-Detection/blob/main/BirdsProject.ipynb)
 ![Python](https://img.shields.io/badge/Python-3.9-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-Instance%20Segmentation-red)
 ![Colab](https://img.shields.io/badge/Run%20on-Google%20Colab-yellow)
